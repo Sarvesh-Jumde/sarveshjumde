@@ -21,10 +21,12 @@
 
 ## 🚀 What I Build
 
+- 🌐 **Full stack apps** with MERN and MEAN stack
 - ⚡ **Serverless APIs** using Azure Functions + Node.js + TypeScript
+- ➕ **System Integrations** with cutting edge technology  
 - 🤖 **AI-powered tools** using LLM APIs, Vertex AI and Google Cloud
 - 🔄 **Workflow automation** using Monday.com, Make.com and Zapier
-- 🌐 **Full stack apps** with MERN stack and Angular
+
 
 ---
 
